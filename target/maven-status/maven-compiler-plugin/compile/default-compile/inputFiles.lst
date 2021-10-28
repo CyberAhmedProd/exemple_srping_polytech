@@ -1,0 +1,11 @@
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/entity/Classe.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/service/ClasseService.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/repository/PersonneRepository.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/Utils/ApiResponse.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/service/PersonneService.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/controller/PersonneController.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/entity/Personne.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/repository/ClasseRepository.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/controller/ClasseController.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/DemoApplication.java
+/home/taquilin/Bureau/exemple-spring-boot/demo/src/main/java/com/polytec/demo/mapping/PersonneResponse.java
